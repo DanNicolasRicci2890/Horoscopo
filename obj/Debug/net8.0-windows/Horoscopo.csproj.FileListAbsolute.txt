@@ -1,0 +1,17 @@
+F:\Proyectos Studio\Projectos C#\Horoscopo\bin\Debug\net8.0-windows\Horoscopo.exe
+F:\Proyectos Studio\Projectos C#\Horoscopo\bin\Debug\net8.0-windows\Horoscopo.deps.json
+F:\Proyectos Studio\Projectos C#\Horoscopo\bin\Debug\net8.0-windows\Horoscopo.runtimeconfig.json
+F:\Proyectos Studio\Projectos C#\Horoscopo\bin\Debug\net8.0-windows\Horoscopo.dll
+F:\Proyectos Studio\Projectos C#\Horoscopo\bin\Debug\net8.0-windows\Horoscopo.pdb
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.Form1.resources
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.csproj.GenerateResource.cache
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.AssemblyInfoInputs.cache
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.AssemblyInfo.cs
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.csproj.CoreCompileInputs.cache
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.dll
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\refint\Horoscopo.dll
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.pdb
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.genruntimeconfig.cache
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\ref\Horoscopo.dll
+F:\Proyectos Studio\Projectos C#\Horoscopo\obj\Debug\net8.0-windows\Horoscopo.Properties.Resources.resources
